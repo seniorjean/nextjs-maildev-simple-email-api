@@ -50,4 +50,7 @@ npm run dev
     };
 ```
 
+## Test the api
+
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://god.gw.postman.com/run-collection/20726569-626456c6-231b-4f38-82ac-bfde97981479?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D20726569-626456c6-231b-4f38-82ac-bfde97981479%26entityType%3Dcollection%26workspaceId%3De638c00e-154b-4000-85fe-58a1f52e21c2)
 
