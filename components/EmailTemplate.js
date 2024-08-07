@@ -31,10 +31,12 @@ const EmailTemplate = ({ fullName, email, message }) => (
             flexDirection: 'column',
             gap: '8px',
             marginTop: '12px',
+            color:'black'
         }}>
             <div style={{
                 display: 'flex',
                 justifyContent: 'space-between',
+                color:'black'
             }}>
                 <p><strong>Name:</strong></p>
                 <p>{fullName}</p>
@@ -42,6 +44,7 @@ const EmailTemplate = ({ fullName, email, message }) => (
             <div style={{
                 display: 'flex',
                 justifyContent: 'space-between',
+                color:'black'
             }}>
                 <p><strong>Email:</strong></p>
                 <p>{email}</p>
@@ -49,6 +52,7 @@ const EmailTemplate = ({ fullName, email, message }) => (
             <div style={{
                 display: 'flex',
                 justifyContent: 'space-between',
+                color:'black'
             }}>
                 <p><strong>Message:</strong></p>
             </div>
@@ -57,6 +61,7 @@ const EmailTemplate = ({ fullName, email, message }) => (
                 justifyContent: 'space-between',
                 alignItems: 'center',
                 gap: '12px',
+                color:'black'
             }}>
                 <hr style={{
                     flex: 1,
@@ -66,7 +71,9 @@ const EmailTemplate = ({ fullName, email, message }) => (
                     flex: 1,
                 }} />
             </div>
-            <p>
+            <p style={{
+                color:'black'
+            }}>
                 {message}
             </p>
         </div>
