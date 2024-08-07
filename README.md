@@ -15,7 +15,7 @@ npm run dev
 <br>
 <h3>mail templqte</h3>
 
-[http://localhost:3000/mailtemplate](http://localhost:3000) 
+[http://localhost:3000/mailtemplate](http://localhost:3000/mailtemplate) 
 
 <br/>
 <h3>mail dev backend</h3>
