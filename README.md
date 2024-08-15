@@ -6,7 +6,7 @@ docker compose up --build
 
 ## RUN WITHOUT DOCKER
 ```bash
-npm run install
+npm install
 ```
 ```bash
 npm run dev
